@@ -215,7 +215,7 @@ def run_test_digits_in_power():
     print('--------------------------------------------------')
 
     # Test 1:
-    
+
 
 def digits_in_power(n, k):
     """
